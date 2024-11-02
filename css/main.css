@@ -1,0 +1,38 @@
+.product{
+   width: 20%;
+   float: left;
+   border:1px solid black;
+   padding:7px;
+   margin: 5px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h4{
+    color: green;
+    display: inline;
+}
+h5{
+    color:red;
+    text-decoration-line:  line-through;
+    display: inline;
+}
+.cart{
+    background-color: blue;
+    color:white;
+    width: 77%;
+    padding: 8px 20px;
+    border:2px solid blue;
+}
+.heart{
+    color:blue;
+    background-color: white;
+    padding: 5px;
+    font-size: 17px;
+    border:2px solid blue;
+}
+.products{
+    margin: 0 8%;
+     width: 90%; 
+}
